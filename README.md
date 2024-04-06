@@ -1,9 +1,9 @@
 # task_education
  Simple Ui for Education Application 
  I used to excute it :
- - shared Preference for save Login 
- - Bottom Navigation Button
-
+ - shared Preference for save Login .
+ - Bottom Navigation Button.
+ - using StateFul as State management.
 
 ## Getting Started
 
