@@ -3,7 +3,7 @@
  I used to excute it :
  - shared Preference for save Login .
  - Bottom Navigation Button.
- - using StateFul as State management.
+ - using StateFullWidget as State management.
 
 ## Getting Started
 
